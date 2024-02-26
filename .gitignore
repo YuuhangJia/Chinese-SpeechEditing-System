@@ -1,0 +1,5 @@
+### Project ignore
+inference/audio/*
+inference/audio_backup/*
+inference/out/*
+*.ckpt

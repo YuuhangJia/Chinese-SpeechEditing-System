@@ -1,0 +1,8 @@
+id,item_name,text,edited_text,wav_fn_orig,edited_region,region
+4,1,"this is a libri vox recording","this is a funny joke shows.",inference/audio_backup/1.wav,"[4,6]","[4,6]"
+4,2,"It mattered not from whence it came; but all agreed it was come into Holland again.","It doesn't mattered not from whence it came; but all agreed it was come into Holland again.",inference/audio_backup/2.wav,"[1,2]","[1,3]"
+103,kerwin,inference/audio_backup/Kerwin_Pronunciation.wav,"this is kerwin from class zero two three one.","this is kerwin from class nine one one.","[6,9]","[6,8]"
+4,bgm,inference/audio_backup/bgm.wav,"this conference will be held in December this year.","this conference will be held in monday this week.","[7,9]","[7,9]"
+6,SSB0033_zh,inference/audio_backup/SSB0033_zh.wav,"刘嘉玲虽然来不及准备贺礼","梁朝伟虽然来不及准备贺礼","[1,3]","[1,3]"
+6,SSB00380001,inference/audio_backup/SSB00380001.wav,"协商确定保障方案涉及赔付比例等详细内容。","协商确定保障方案等详细内容。","[9,16]","[9,10]"
+7,record,inference/audio_backup/record.wav,"你可以使用这款麦克风录制你的声音。","你可以使用这款麦克风录制、剪切和编辑你的声音。","[12,13]","[12,18]"
